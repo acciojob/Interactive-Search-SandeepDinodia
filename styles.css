@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.search{
+	height:500px;
+		width:100%;
+	background-color:blue;
+	align-items:center;
+	display:flex;
+	justify-content:center;
+}
+.searchbar{
+	height:35px;
+	width:250px;
+	border-radius:8px
+}
+.btn{
+	height:39px;
+	font-weight:bold;
+}
